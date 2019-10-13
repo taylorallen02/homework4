@@ -1,14 +1,23 @@
 #scores {
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
 }
 #timer {
-    font-size: 25px;
+    font-size: 20px;
     text-align: right;
 }
 #directions {
-    color: magenta;
     width: 300px;
-    border: 1px solid;
+    border: 2px solid;
+    border-color: purple;
     text-align: center;
+    padding: 20px;
+}
+#start-btn {
+    color: white;
+    background-color: purple;
+}
+#question1 {
+    text-align: center;
+    padding: 20px;
 }
